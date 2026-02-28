@@ -8,3 +8,6 @@
   <img src="https://img.shields.io/badge/ide-VS CODE-informational?style=for-the-badge&logo=visualstudiocode&logoColor=282828&color=282828&labelColor=ebdbb2" />
   <img src="https://img.shields.io/badge/cloud-Cloudflare-informational?style=for-the-badge&logo=cloudflare&logoColor=282828&color=282828&labelColor=ebdbb2" />
 </div>
+<div>
+  <img src="https://github.com/omrxdev/omrxdev/blob/main/assets/desktop-v1.png" alt="desktop" />
+</div>
