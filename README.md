@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://t.me/yourusername"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/omrxm"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:omarmohammed3147@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 <div align="center">
@@ -34,7 +34,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=omrxdev&theme=gruvbox&bg_color=282828&hide_border=true&color=fabd2f&line=fe8019&point=ebdbb2" width="100%" />
 
 </div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omrxdev&repo=bot_whatsapp&theme=gruvbox)
 
 ---
 
