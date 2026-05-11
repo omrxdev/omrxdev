@@ -32,7 +32,12 @@
 
 ---
 
-### 🛠️ Current Projects
-- 🤖 **[bot_whatsapp](https://github.com/omrxdev/bot_whatsapp)** - Educational WhatsApp automation.
-- ⚙️ **[android_kernel_xiaomi_mt6785](https://github.com/omrxdev/android_kernel_xiaomi_mt6785)** - Custom kernel work for Begonia/Rosemary.
-- 🖥️ **[dotfiles](https://github.com/omrxdev/omrxdev.github.io)** - My Arch + Hyprland setup.
+### 🛠️ Active Development
+- 🤖 **[bot_whatsapp](https://github.com/omrxdev/bot_whatsapp)** - Educational WhatsApp automation and node-based tooling.
+- ⚙️ **[android_kernel_xiaomi_mt6785](https://github.com/omrxdev/android_kernel_xiaomi_mt6785)** - Custom kernel development for the MediaTek 6785 platform.
+- 📱 **Android System Modding** - Building and optimizing kernels for better performance and stability.
+
+### 🧠 Skills & Tools
+- **Languages:** C, Shell Scripting
+- **Environment:** Linux (Arch), KDE Plasma, vscode
+- **Specialties:** Dynamic DNS, Cloudflare Tunnels, Kernel Debugging
