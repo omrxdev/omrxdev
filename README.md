@@ -20,7 +20,7 @@
   <br/><br/>
 
   <img src="https://img.shields.io/badge/OS-Arch_Linux-ebdbb2?style=for-the-badge&logo=arch-linux&logoColor=1793D1&labelColor=282828" />
-  <img src="https://img.shields.io/badge/WM-Hyprland-ebdbb2?style=for-the-badge&logo=hyprland&logoColor=00C2FF&labelColor=282828" />
+  <img src="https://img.shields.io/badge/DE-KDE-ebdbb2?style=for-the-badge&logo=KDE&logoColor=00C2FF&labelColor=282828" />
   <img src="https://img.shields.io/badge/IDE-VS_Code-ebdbb2?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=282828" />
   <img src="https://img.shields.io/badge/Cloud-Cloudflare-ebdbb2?style=for-the-badge&logo=cloudflare&logoColor=F38020&labelColor=282828" />
   
